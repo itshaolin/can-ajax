@@ -70,7 +70,7 @@
     "steal-qunit": "^1.0.1",
     "steal-tools": "^1.2.0",
     "testee": "^0.3.0",
-    "generator-donejs": "^1.0.0",
+    "generator-donejs": "^1.0.4",
     "donejs-cli": "^1.0.0",
     "done-serve": "^1.0.0"
   }
